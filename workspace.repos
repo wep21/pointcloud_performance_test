@@ -1,0 +1,17 @@
+repositories:
+  pcd_publisher:
+    type: git
+    url: https://github.com/wep21/pcd_publisher.git
+    version: main
+  topic_tools:
+    type: git
+    url: https://github.com/tier4/topic_tools.git
+    version: tier4/main
+  rclcpp_generic:
+    type: git
+    url: https://github.com/ApexAI/rclcpp_generic.git
+    version: autoware
+  test_pointcloud_launch
+    type: git
+    url: https://github.com/wep21/test_pointcloud_launch.git
+    version: main
